@@ -6,7 +6,7 @@ Repository per organizzare i miei appunti
 
 ``` 
 
-NESSUN APPUNTO E` ANCORA STATO CARICATO SU QUESTA REPOSITORY
+Gli appunti verranno caricati man mano col proseguire delle lezioni
 ```
 
 Sto solo provando come usare il markdown per scrivere testo formattato ***facilmente*** e tenere il testo comodamente su GitHub.
