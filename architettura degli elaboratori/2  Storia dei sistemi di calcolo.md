@@ -28,10 +28,20 @@ un archeologo ha scoperto che serve per calcolare la propria posizione)
 **legge di Moore** (*Gordon Moore*, 1965, fondatore si Intel): il numero di transistor allintero
 di un chip di memoria quadruplica ogni tre anni
 
+non durerà per sempre
+
 non è una retta, è esponenziale
+
+es1:
 
     se la densità in un chip di memoria è 3E7 T/cm2 che densità dovremmo aspettarci dopo 4 anni e mezzo seondo la legge di Moore?
 
     4.5=3+1.5 ==> 3E7*4*2= 2.4E8 T/cm2 
 
-non durerà per sempre
+---
+
+es2 
+
+    se la densità in un chip di memoria è 3E7 T/cm2 che densità avevamo 9 anni fa seondo la legge di Moore?
+
+    3E7/sqrt(2)

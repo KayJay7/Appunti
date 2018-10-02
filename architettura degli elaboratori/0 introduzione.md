@@ -63,7 +63,7 @@ studia, capra!
 
 il docente è permaloso ;) ma gli vogliamo bene comunque <3
 
-usa parole in inglese tradotte male tipo "clearare"
+usa parole in inglese tradotte male tipo "clearare" e "non senso"
 
 ---
 libro di testo Tannenbaum, quello che usava la Paladin
