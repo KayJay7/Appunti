@@ -6,7 +6,8 @@ programma: sequenza di istruzioni macchina
 
 i programmi ed i **dati** sono organizzati in file che risiedono in memoria
 
-    la memoria è una delle parti più problematiche nello sviluppo degli elaboratori, non si sapeva come mantenere i dati perché la macchina potesse utilizzarli
+    la memoria è una delle parti più problematiche nello sviluppo degli elaboratori,
+    non si sapeva come mantenere i dati perché la macchina potesse utilizzarli
 
 ---
 ---
